@@ -12,3 +12,4 @@ git clone https://github.com/coreemu/core.git
 ./configure  
 make  
 sudo make install  
+TBC...
